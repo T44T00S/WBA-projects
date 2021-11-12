@@ -1,4 +1,7 @@
-
+.stranka{
+    background-color: gold;
+    margin: 25px;
+}
 .button {
     display: block;
     width: 30%;
@@ -14,8 +17,4 @@
 .button:hover {
     background-color: #E6BE1B;
     color: black;
-}
-
-.stranka{
-    background-color: gold;
 }
